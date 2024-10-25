@@ -37,7 +37,7 @@
 
 - [RISC-V 手册-一本开源指令集的指南](.\RISC-V-Reader-Chinese-v1.pdf)
 - [硬件描述语言——数字电路教程](https://vlab.ustc.edu.cn/guide/doc_verilog.html)
-- 论文资料：
+- 手册资料：
   - [The RISC-V Instruction Set Manual Volume I: Unprivileged ISA Document Version 20191213](./riscv-spec-20191213.pdf)
   - [The RISC-V Instruction Set Manual Volume II: Privileged Architecture 20211203](./riscv-privileged-20211203.pdf)
 
