@@ -54,6 +54,7 @@
 
 ## 参考资料
 
-https://www.gitlink.org.cn/zone/iChips/source/12
-https://github.com/chipsalliance/aib-phy-hardware
-https://github.com/chipsalliance/aib-phy-generator
+- https://www.gitlink.org.cn/zone/iChips/source/12
+- https://github.com/chipsalliance/aib-phy-hardware
+- https://github.com/chipsalliance/aib-phy-generator
+-  [Study_Reference.md](./reference/Study_Reference.md) 
