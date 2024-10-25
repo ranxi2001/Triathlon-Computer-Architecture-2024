@@ -35,16 +35,16 @@
 
 ## 编译器和操作系统
 
-- [RISC-V 手册-一本开源指令集的指南](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf)
-- [硬件描述语言](https://vlab.ustc.edu.cn/guide/doc_verilog.html)
+- [RISC-V 手册-一本开源指令集的指南](.\RISC-V-Reader-Chinese-v1.pdf)
+- [硬件描述语言——数字电路教程](https://vlab.ustc.edu.cn/guide/doc_verilog.html)
 - 论文资料：
   - [The RISC-V Instruction Set Manual Volume I: Unprivileged ISA Document Version 20191213](./riscv-spec-20191213.pdf)
   - [The RISC-V Instruction Set Manual Volume II: Privileged Architecture 20211203](./riscv-privileged-20211203.pdf)
 
-- [指令测试]：
+- 指令测试：
   - 1、riscv-tests：https://github.com/riscv-software-src/riscv-tests
   - 2、riscv-tools：https://github.com/riscv-software-src/riscv-tools
-- [模拟器]：
+- 模拟器：
   - 1、riscv-isa-sim：https://github.com/riscv-software-src/riscv-isa-sim
 - 编译器教程：
   - qemu：https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
